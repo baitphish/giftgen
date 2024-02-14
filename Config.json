@@ -29,8 +29,8 @@
         },
         { 
             "name": "EBAY",
-            "prefix": "EBAY$",
-            "length": 16 
+            "prefix": "",
+            "length": 13 
         }
     ],
     "custom_stores": [
